@@ -12,3 +12,10 @@ Employer:    Mercury
 Language:    Python
 
 Submission Date:    22-Jun-2022
+
+
+Notes
+
+  Pycharm commenting convention (used to comment throughout with triple quotes)
+  
+  Comment standard reference [https://www.jetbrains.com/help/pycharm/creating-documentation-comments.html]
